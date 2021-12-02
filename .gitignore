@@ -1,0 +1,15 @@
+
+*.json
+*.dll
+*.exe
+*.csproj
+*.props
+*.cache
+*.pdb
+
+*.editorconfig
+*.txt
+*.targets
+Day1/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+Day1/obj/Debug/net6.0/Day1.AssemblyInfo.cs
+Day1/obj/Debug/net6.0/Day1.GlobalUsings.g.cs
